@@ -1,4 +1,4 @@
-package com.aula1.aula1;
+package com.aula1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
